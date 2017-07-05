@@ -16,7 +16,7 @@ as well as **Rest Assured** for integration/regression testing
 
 #### Prerequisites installed
 
-* Oracle JDK 1.7 or 1.8
+* Oracle JDK 1.8
 * Maven
 * IDE or editor of your choice
 
